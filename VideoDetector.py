@@ -26,7 +26,7 @@ nout = './image/'+str(x.date())+'%'+str(x.hour)
 out = cv2.VideoWriter(nout+'.avi',fourcc,fps,size)
 #(640,480)
 
-# Dlib 人臉辨識
+# Dlib 人臉偵測
 detector = dlib.get_frontal_face_detector()
 
 while cap.isOpened():
