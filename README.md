@@ -2,8 +2,8 @@
 小小實驗 - Use Python via Visual Studio 2017
 
 需要套件有:
-  opencv
-  numpy
-  dlib( need Cmake)
-  imutils
-  datetime
+  opencv \n
+  numpy \n
+  dlib( need Cmake) \n
+  imutils \n
+  datetime \n
